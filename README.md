@@ -6,3 +6,4 @@ Contents developed during the ICTP School [link](https://www.ictp-saifr.org/scho
 #### Morning
 
 - Introduction
+- Foundation of Modern Computer Architecture
