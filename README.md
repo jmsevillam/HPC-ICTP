@@ -6,4 +6,4 @@ Contents developed during the ICTP School [link](https://www.ictp-saifr.org/scho
 #### Morning
 
 - Introduction
-- Foundation of Modern Computer Architecture
+- Foundation of Modern Computer Architecture [link](https://github.com/silviostanzani/ICTP-HPC/tree/master/Foundation-of-Modern-Computer-Architecture)
